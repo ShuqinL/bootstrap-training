@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box; }
+
+body .container .row {
+  border: 10px solid black;
+  background-color: #c37ffa;
+  text-align: center; }
+
+/*# sourceMappingURL=oefeningen.css.map */

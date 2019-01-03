@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,CAAE;EACE,UAAU,EAAE,UAAU;;AActB,oBAAI;EAVJ,MAAM,EAAC,gBAAwB;EAC/B,gBAAgB,EAAE,OAAkB;EACpC,UAAU,EAAE,MAAM",
+"sources": ["oefeningen.scss"],
+"names": [],
+"file": "oefeningen.css"
+}

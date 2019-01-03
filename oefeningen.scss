@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box; }
+
+
+@mixin column-box($border-color:black){
+    border:10px solid $border-color;
+    background-color: rgb(195, 127, 250);
+    text-align: center;
+}
+
+body 
+  {
+   
+  .container{
+    
+    .row{
+        @include column-box;  
+    }
+    
+   }
+
+
+}
